@@ -1,0 +1,33 @@
+.widget-container {
+  color: #999;
+  max-width: 100%;
+  margin-left: 5rem;
+}
+
+.icon-container {
+margin-bottom: 1rem;
+}
+
+.icon-payment {
+max-height: 64px;
+margin-right: 1rem;
+}
+
+.checked {
+border: 5px solid orange;
+}
+
+.validate-result {
+font-size: 2rem;
+margin-bottom: 1rem;
+}
+
+.widget-input {
+width: 25%;
+height: 2rem;
+}
+
+.widget-button {
+height: 2rem;
+background-color: orange;
+}
